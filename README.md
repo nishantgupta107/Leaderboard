@@ -18,7 +18,7 @@ Open `leaderboard.html` in your preferred web browser.
 
 or
 
-go to deployed version at 
+go to deployed version at https://nishantgupta107.github.io/Leaderboard/ 
 
 ## Usage
 
